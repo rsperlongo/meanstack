@@ -1,4 +1,4 @@
-const require = ('node-restful')
+const rest = ('node-restful')
 const mongoose = restful.mongoose
 
 const creditSchema = new mongoose.Schema({
